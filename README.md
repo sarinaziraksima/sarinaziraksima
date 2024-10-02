@@ -23,13 +23,6 @@
     transform-origin: center center;
   }
   
-  @for $num from 1 through 8 {
-    .circle:nth-child(#{$num}) {
-      left: ($num - 1) * 30px;
-      animation-delay: $num * .1s;
-    }
-  }
-  
 
 
 
