@@ -5,7 +5,7 @@ A summary about me:
 
 
 
-> I hold my bachloars degree in Electrical Engineering - Electronic field - from Tecnology University of Sahand. I hope this account would indicate my codding skills. My bachloar thesis was ""
+> I hold my bachloars degree in Electrical Engineering - Electronic field - from Tecnology University of Sahand. I hope this account would indicate my codding skills. My bachloar thesis was "Design and Implementation of Active Filters Using Matlab's Genetic Algorithm "
 
 
 <h2>codding languages:</h2>
@@ -35,7 +35,7 @@ A summary about me:
 
 > 
  ```
- [GitHub Pages](https://pages.github.com/).
+ [li Page](https://pages.github.com/).
   FPGA
   STM
   ESP8266
@@ -43,5 +43,7 @@ A summary about me:
   ```
 
 
-https://pages.github.com/
+[LinkedIn](https://www.linkedin.com/in/sarina-ziraksima-605827254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
+sarinaziraksima@yahoo.com
 
