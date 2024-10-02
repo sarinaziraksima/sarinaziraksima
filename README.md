@@ -11,29 +11,35 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 
 
-<!-- TO DO: add more details about me later -->
-Some basic Git commands are:
-```
-git status
-git add
-git commit
-```
+
 A summary about me:
 
-> Text that is a quote
-
-codding languages:
-
-> Text that is a quote
 
 
-practical skills
-> Some basic Git commands are:
+> I hold my bachloars degree in Electrical Engineering - Electronic field - from Tecnology University of Sahand. I hope this account would indicate my codding skills.
+
+
+<h2>codding languages:</h2>
+
+> 
   ```
-  git status
-  git add
-  git commit
+  c++
+  MATLAB
+  VHDL
   ```
+
+
+<h2>practical maduls I worked with:</h2>
+> 
+  ```
+  ARM
+  FPGA
+  STM
+  ESP8266
+  Arduino
+  ```
+
+
 
 <h1>codding languages:</h1>
 <h2>codding languages:</h2>
