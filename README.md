@@ -1,7 +1,7 @@
 
 
 
-A summary about me:
+<h2>A summary about me:</h2>
 
 
 
@@ -32,15 +32,6 @@ A summary about me:
 
 
 <h2>contact info:</h2>
-
-> 
- ```
- [li Page](https://pages.github.com/).
-  FPGA
-  STM
-  ESP8266
-  Arduino
-  ```
 
 
 [LinkedIn: Sarina Ziraksima](https://www.linkedin.com/in/sarina-ziraksima-605827254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
