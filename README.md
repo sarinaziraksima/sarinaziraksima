@@ -9,7 +9,7 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## About me
+
 
 <!-- TO DO: add more details about me later -->
 Some basic Git commands are:
@@ -35,26 +35,20 @@ practical skills
   git commit
   ```
 
+<h1>codding languages:</h1>
+<h2>codding languages:</h2>
+<h3>codding languages:</h3>
+
+> Text that is a quote
 
 
 
 
 
-> [!hi]
-> Useful information that users should know, even when skimming content.
 
-> [!TIP]
-> Helpful advice for doing things better or more easily.
+contact info:
 
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
-
+> This site was built using [GitHub Pages](https://pages.github.com/).
 
 <!---
 
