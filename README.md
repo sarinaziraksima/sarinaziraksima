@@ -29,6 +29,23 @@
   Arduino
   ```
 
+<h2>Hobbies</h2>
+
+> 
+ ```
+  Playying Classsical Guitar
+  Rock Climbing
+  ```
+
+<h2>Usefull Links</h2>
+
+> 
+ ```
+  [CV]
+  [Resume]
+  [Personal Statement]
+  ```
+
 
 
 <h2>contact info:</h2>
