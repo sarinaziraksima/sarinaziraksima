@@ -7,7 +7,22 @@
 - ⚡ Fun fact: ...
 
 
-> [!NOTE]
+A summary about me:
+
+> Text that is a quote
+
+codding languages:
+
+> Text that is a quote
+
+
+practical skills
+> Text that is a quote
+
+
+
+
+> [!hi]
 > Useful information that users should know, even when skimming content.
 
 > [!TIP]
