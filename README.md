@@ -9,41 +9,26 @@
 
 <!DOCTYPE html>
 <html>
-<head>
 <style>
-
-
-  .circle {
-    position: absolute;
-    width: 20px;
-    height: 20px;
-    border-radius: 100%;
-    background-color: turquoise;
-    animation: move-the-circle 1s infinite;
-    transform-origin: center center;
-  }
-  
-
-
-
+div {
+  background-color: #FFF4A3;
+}
 </style>
-</head>
 <body>
-<!-- HTML -->
-<div class="animation-wrapper">
-  <div class="circle"></div>
-  <div class="circle"></div>
-  <div class="circle"></div>
-  <div class="circle"></div>
-  <div class="circle"></div>
-  <div class="circle"></div>
-  <div class="circle"></div>
-  <div class="circle"></div>
+
+<h1>HTML DIV Example</h1>
+
+<div>
+  <h2>London</h2>
+  <p>London is the capital city of England.</p>
+  <p>London has over 13 million inhabitants.</p>
 </div>
 
+<p>The yellow background is added to demonstrate the footprint of the DIV element.</p>
 
 </body>
 </html>
+
 
 
 
