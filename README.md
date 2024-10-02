@@ -7,29 +7,20 @@
 - ⚡ Fun fact: ...
 
 
-<!DOCTYPE html>
-<html>
-<style>
-div {
-  background-color: #FFF4A3;
-}
-</style>
-<body>
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
 
-<h1>HTML DIV Example</h1>
+> [!TIP]
+> Helpful advice for doing things better or more easily.
 
-<div>
-  <h2>London</h2>
-  <p>London is the capital city of England.</p>
-  <p>London has over 13 million inhabitants.</p>
-</div>
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
 
-<p>The yellow background is added to demonstrate the footprint of the DIV element.</p>
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
 
-</body>
-</html>
-
-
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
 
 
 <!---
