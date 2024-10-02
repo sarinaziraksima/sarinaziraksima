@@ -30,23 +30,6 @@
     }
   }
   
-  @keyframes move-the-circle {
-    0% {
-      transform: translate(0, 0) scale(1);
-      opacity: 1;
-      background-color: turquoise;
-    }
-    50% {
-      transform: translate(0, 50px) scale(.4);
-      opacity: .5;
-      background-color: blue;
-    }
-    100% {
-      transform: translate(0, 0) scale(1);
-      opacity: 1;
-      background-color: turquoise;
-    }
-  }
 
 
 
