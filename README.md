@@ -1,3 +1,6 @@
+
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
 - 👋 Hi, I’m @sarinaziraksima
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -6,7 +9,15 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## About me
 
+<!-- TO DO: add more details about me later -->
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
 A summary about me:
 
 > Text that is a quote
@@ -17,7 +28,14 @@ codding languages:
 
 
 practical skills
-> Text that is a quote
+> Some basic Git commands are:
+  ```
+  git status
+  git add
+  git commit
+  ```
+
+
 
 
 
