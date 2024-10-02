@@ -43,7 +43,7 @@ A summary about me:
   ```
 
 
-[LinkedIn](https://www.linkedin.com/in/sarina-ziraksima-605827254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[LinkedIn: Sarina Ziraksima](https://www.linkedin.com/in/sarina-ziraksima-605827254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 sarinaziraksima@yahoo.com
 
