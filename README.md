@@ -30,8 +30,9 @@ A summary about me:
 
 
 <h2>practical maduls I worked with:</h2>
+
 > 
-  ```
+ ```
   ARM
   FPGA
   STM
@@ -41,21 +42,17 @@ A summary about me:
 
 
 
-<h1>codding languages:</h1>
-<h2>codding languages:</h2>
-## codding languages:</h3>
+<h2>contact info:</h2>
 
-> Text that is a quote
+> 
+ ```
+  This site was built using [GitHub Pages](https://pages.github.com/).
+  FPGA
+  STM
+  ESP8266
+  Arduino
+  ```
 
 
 
 
-
-
-contact info:
-
-> This site was built using [GitHub Pages](https://pages.github.com/).
-
-<!---
-
---->
