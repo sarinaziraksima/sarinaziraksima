@@ -7,6 +7,10 @@
 - ⚡ Fun fact: ...
 
 
+<!DOCTYPE html>
+<html>
+<head>
+<style>
 
 /* Sass */
 .circle {
@@ -44,6 +48,11 @@
   }
 }
 
+
+
+</style>
+</head>
+<body>
 <!-- HTML -->
 <div class="animation-wrapper">
   <div class="circle"></div>
@@ -55,6 +64,11 @@
   <div class="circle"></div>
   <div class="circle"></div>
 </div>
+
+
+</body>
+</html>
+
 
 
 <!---
