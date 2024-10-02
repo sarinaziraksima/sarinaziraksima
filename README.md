@@ -37,7 +37,7 @@ practical skills
 
 <h1>codding languages:</h1>
 <h2>codding languages:</h2>
-##codding languages:</h3>
+## codding languages:</h3>
 
 > Text that is a quote
 
