@@ -5,7 +5,7 @@
 
 
 
-> I hold my bachloars degree in Electrical Engineering - Electronic field - from Tecnology University of Sahand. I hope this account would indicate my codding skills. My bachloar thesis was "Design and Implementation of Active Filters Using Matlab's Genetic Algorithm "
+> I hold my bachelor's degree in Electrical Engineering - Electronic field - from Technology University of Sahand. My bachelor thesis was 'Design and Implementation of Active Filters Using Matlab's Genetic Algorithm.'
 
 
 <h2>codding languages:</h2>
