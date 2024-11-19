@@ -1,6 +1,5 @@
 
 
-
 <h2>Here is a brief summary about me:</h2>
 
 
